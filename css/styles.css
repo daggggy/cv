@@ -1,9 +1,9 @@
 body {
   margin: 0;
+  text-align: center;
 }
 
 .div1 {
-  text-align: center;
   background-color: #222831;
   font-family: "Courier New", Courier, monospace;
   margin: 0;
@@ -11,7 +11,6 @@ body {
 }
 
 .div2 {
-  text-align: center;
   background-color: #393e46;
   font-family: "Courier New", Courier, monospace;
   margin: 0;
@@ -20,7 +19,6 @@ body {
 }
 
 .div3 {
-  text-align: center;
   background-color: #00adb5;
   font-family: "Courier New", Courier, monospace;
   margin: 0;
@@ -28,7 +26,6 @@ body {
 }
 
 .div4 {
-  text-align: center;
   background-color: #d9eeec;
   font-family: "Courier New", Courier, monospace;
   margin: 0;
@@ -61,5 +58,4 @@ a {
 h1, p, h3 {
   margin: 0;
   color: #e0e0e0;
-  text-align: center;
 }
